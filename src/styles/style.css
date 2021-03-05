@@ -1,149 +1,214 @@
 /** CSS STYLE **/
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 @font-face {
-    font-weight: 400;
-    font-family: 'OpenSans';
-    src: url('../assets/fonts/OpenSans-Regular.ttf');
+  font-weight: 400;
+  font-family: 'OpenSans';
+  src: url('../assets/fonts/OpenSans-Regular.ttf');
 }
 
 @font-face {
-    font-weight: 400;
-    font-style: italic;
-    font-family: 'OpenSans';
-    src: url('../assets/fonts/OpenSans-Italic.ttf');
+  font-weight: 400;
+  font-family: 'OpenSans';
+  font-style: italic;
+  src: url('../assets/fonts/OpenSans-Italic.ttf');
 }
 
 @font-face {
-    font-weight: 700;
-    font-family: 'OpenSans';
-    src: url('../assets/fonts/OpenSans-Bold.ttf');
+  font-weight: 700;
+  font-family: 'OpenSans';
+  src: url('../assets/fonts/OpenSans-Bold.ttf');
 }
 
 @font-face {
-    font-weight: 300;
-    font-family: 'OpenSans';
-    src: url('../assets/fonts/OpenSans-Light.ttf');
+  font-weight: 300;
+  font-family: 'OpenSans';
+  src: url('../assets/fonts/OpenSans-Light.ttf');
 }
 
 @font-face {
-    font-weight: 700;
-    font-style: italic;
-    font-family: 'OpenSans';
-    src: url('../assets/fonts/OpenSans-BoldItalic.ttf');
+  font-weight: 700;
+  font-style: italic;
+  font-family: 'OpenSans';
+  src: url('../assets/fonts/OpenSans-BoldItalic.ttf');
 }
 
 @font-face {
-    font-weight: 400;
-    font-family: 'Neucha';
-    src: url('../assets/fonts/Neucha-Regular.ttf');
+  font-weight: 400;
+  font-family: 'Neucha';
+  src: url('../assets/fonts/Neucha-Regular.ttf');
 }
 
 body {
-    font-family: 'OpenSans', sans-serif;
-    line-height: 1.6em;
-    font-size: 16px;
-    color: #2a2626;
+  font-family: 'OpenSans', sans-serif;
+  line-height: 1.6em;
+  font-size: 16px;
+  color: #2a2626;
 }
 
 .header {
-    position: relative;
-    overflow: hidden;
-    background-color: #f5f4f0;
+  position: relative;
+  overflow: hidden;
+  background-color: #f5f4f0;
 }
 
 .bg-before::before {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background: url(../images/background.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 10%;
-    content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: url(../images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 10%;
+  content: "";
 }
 
 .container {
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 1110px;
-    margin: 0 auto;
-    padding-top: 100px;
-    padding-bottom: 100px;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 1110px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .heading {
-    font-family: 'Neucha', sans-serif;
-    font-weight: 400;
-    line-height: 1.2em;
-    font-size: 72px;
-    z-index: 100;
+  font-family: 'Neucha', sans-serif;
+  font-weight: 400;
+  line-height: 1.2em;
+  font-size: 72px;
+  z-index: 100;
 }
 
 .orange {
-    color:#fe8a02;
+  color: #fe8a02;
 }
 
 .main-img {
-    position: absolute;
-    height: 525px;
-    top: 35px;
-    right: -270px;
+  position: absolute;
+  height: 525px;
+  top: 35px;
+  right: -270px;
 }
 
 .left-side-block {
-    width: 540px;
-    margin-top: 185px;
+  width: 540px;
+  margin-top: 185px;
 }
 
 .right-side-block {
-    width: 540px;
-    margin-top: 185px;
+  width: 540px;
+  margin-top: 185px;
 }
 
 .button-orange {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 .button-orange-style {
-    padding: 12px 24px;
-    color: #FFFFFF;
-    text-decoration: none;
-    background-color: #FE8A02;
-    font-weight: 700;
+  padding: 12px 24px;
+  color: #FFFFFF;
+  text-decoration: none;
+  background-color: #FE8A02;
+  font-weight: 700;
 }
 
 .container-video {
-    position: relative;
-    display: flex;
-    flex-flow: column;
-    align-items: center;
-    width: 1110px;
-    margin: 0 auto;
-    padding-top: 100px;
-    padding-bottom: 100px;
+
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  width: 1110px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .heading-h2 {
-    font-family: 'Neucha', sans-serif;
-    font-weight: 400;
-    line-height: 1.2em;
-    font-size: 60px;
-    margin-bottom: 30px;
-    text-align: center;
+  font-family: 'Neucha', sans-serif;
+  font-weight: 400;
+  line-height: 1.2em;
+  font-size: 60px;
+  margin-bottom: 30px;
+  text-align: center;
 }
 
 .paragraph-video {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .video {
-    position: absolute;
-    top: 329px;
-    filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
+  z-index: 100;
+  margin-bottom: -200px;
+  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
+}
+
+.container-navigation {
+  background-color: #42413C;
+}
+
+#navigation {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 1110px;
+  margin: 0 auto;
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+
+.heading-nav {
+  width: 350px;
+  font-family: 'Neucha', sans-serif;
+  font-weight: 400;
+  line-height: 1.2em;
+  font-size: 52px;
+
+}
+
+.white {
+  color: #fff;
+}
+
+.nav-block {
+  width: 302px;
+  padding: 24px;
+  margin-bottom: 20px;
+  background-color: #F5F4F0;
+}
+
+.nav-block>a {
+  text-decoration: none;
+  color: #2a2626;
+}
+
+.nav-number {
+  display: block;
+  margin-bottom: 40px;
+  font-family: 'Neucha', sans-serif;
+  font-size: 64px;
+  line-height: 1em;
+  color: #2a2626;
+}
+
+.heading-block-nav {
+  display: block;
+  margin-bottom: 16px;
+  font-family: 'Neucha', sans-serif;
+  font-size: 34px;
+  line-height: 1.2em;
+  color: #FE8A02;
+}
+
+.nav-block:hover {
+  background-color: #FE8A02;
+}
+
+.nav-block:hover>a>span {
+  color: #FFF;
 }
