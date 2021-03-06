@@ -74,7 +74,7 @@ body {
   background-size: cover;
   opacity: 10%;
   content: "";
-  
+
 }
 
 .container {
@@ -304,11 +304,11 @@ body {
 }
 
 .white {
-  color:#FFF;
+  color: #FFF;
 }
 
 .translucent-white {
-  color: #D7CCC0; 
+  color: #D7CCC0;
 }
 
 .grey {
