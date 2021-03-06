@@ -46,8 +46,6 @@ h2 {
   font-family: 'Neucha', sans-serif;
   font-size: 60px;
   line-height: 1.2em;
-  color: #fe8a02;
-
 }
 
 body {
@@ -367,4 +365,13 @@ body {
 
 .white {
   color: #FFF;
+}
+
+#distortion-of-novelty {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1110px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
