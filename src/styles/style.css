@@ -383,10 +383,19 @@ h3 {
   background-color: #fe8a02;
 }
 
-.button a {
+.button-nav {
+  padding: 12px 24px;
+  border: none;
+
   color: #fff;
+
   font-weight: bold;
+
+  text-transform: uppercase;
+
   text-decoration: none;
+
+  background-color: #fe8a02;
 }
 
 /* Definition */
@@ -476,6 +485,10 @@ h3 {
 .clickable:hover .item-number,
 .clickable:hover .item-content {
   color: #fff;
+}
+
+.button-with-hover:hover {
+  background: #ea7600;
 }
 
 /* Distortion */
