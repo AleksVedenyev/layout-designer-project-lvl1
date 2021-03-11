@@ -2,8 +2,8 @@
 
 /* cyrillic */
 @font-face {
-  font-family: 'Neucha';
   font-weight: 400;
+  font-family: 'Neucha';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfuQltOxU.woff2) format('woff2');
@@ -12,8 +12,8 @@
 
 /* latin */
 @font-face {
-  font-family: 'Neucha';
   font-weight: 400;
+  font-family: 'Neucha';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfvQlt.woff2) format('woff2');
@@ -22,8 +22,8 @@
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 400;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWJ0bbck.woff2) format('woff2');
@@ -32,8 +32,8 @@
 
 /* cyrillic */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 400;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFUZ0bbck.woff2) format('woff2');
@@ -42,8 +42,8 @@
 
 /* greek-ext */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 400;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWZ0bbck.woff2) format('woff2');
@@ -52,8 +52,8 @@
 
 /* greek */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 400;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVp0bbck.woff2) format('woff2');
@@ -62,8 +62,8 @@
 
 /* vietnamese */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 400;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWp0bbck.woff2) format('woff2');
@@ -72,8 +72,8 @@
 
 /* latin-ext */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 400;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFW50bbck.woff2) format('woff2');
@@ -82,8 +82,8 @@
 
 /* latin */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 400;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0b.woff2) format('woff2');
@@ -92,8 +92,8 @@
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 700;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2) format('woff2');
@@ -102,8 +102,8 @@
 
 /* cyrillic */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 700;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2) format('woff2');
@@ -112,8 +112,8 @@
 
 /* greek-ext */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 700;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2) format('woff2');
@@ -122,8 +122,8 @@
 
 /* greek */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 700;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2) format('woff2');
@@ -132,8 +132,8 @@
 
 /* vietnamese */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 700;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2) format('woff2');
@@ -142,8 +142,8 @@
 
 /* latin-ext */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 700;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2) format('woff2');
@@ -152,8 +152,8 @@
 
 /* latin */
 @font-face {
-  font-family: 'Open Sans';
   font-weight: 700;
+  font-family: 'Open Sans';
   font-style: normal;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2) format('woff2');
@@ -162,12 +162,11 @@
 
 body {
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
   color: #2a2626;
-  line-height: 1.6em;
-  margin: 0;
-  /* overflow-x: hidden; */
+  font-family: 'Open Sans', sans-serif;
 
+  margin: 0;
+  line-height: 1.6em;
 }
 
 h1,
@@ -175,14 +174,15 @@ h2,
 h3,
 h4 {
   font-family: 'Neucha', cursive;
-  line-height: 1.2em;
-  font-weight: normal;
+
   margin: 0;
+  font-weight: normal;
+  line-height: 1.2em;
 }
 
 *,
-*:before,
-*:after {
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -206,9 +206,9 @@ h3 {
 
 .container {
   max-width: 1110px;
-  margin: 0 auto;
-
   display: flex;
+  margin: 0 auto;
+  
   flex-wrap: wrap;
 }
 
@@ -224,10 +224,11 @@ h3 {
 }
 
 .section--bg::before {
+  position: absolute;
   content: '';
 
-  position: absolute;
   top: 0;
+
   width: 100%;
   height: 100%;
 
@@ -235,7 +236,6 @@ h3 {
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.1;
-
 }
 
 .section--video {
@@ -251,8 +251,9 @@ h3 {
 }
 
 .section--brown {
-  background-color: #b09a81;
+
   color: #fff;
+  background-color: #b09a81;
 }
 
 .section--brown .distortion__header {
@@ -260,7 +261,7 @@ h3 {
 }
 
 .section--brown .distortion__suptitle {
-  color: #D7CCC0;
+  color: #d7ccc0;
 }
 
 .section--brown .distortion__description {
@@ -268,13 +269,14 @@ h3 {
 }
 
 .section--brown .distortion__divider {
+
+  color: #b09a81;
   background-color: #fff;
-  color: #B09A81;
 }
 
-.section--brown .distortion__image+.distortion__inner {
-  margin-left: 0;
+.section--brown .distortion__image + .distortion__inner {
   margin-right: 30px;
+  margin-left: 0;
 }
 
 /* Header */
