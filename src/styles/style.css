@@ -427,7 +427,7 @@ h3 {
 
   background-color: #f5f4f0;
 
-  transition: background .1s linear, color .1s linear;
+  transition: 0.1s linear, color 0.1s linear;
 }
 
 .navigation__item:first-child {
