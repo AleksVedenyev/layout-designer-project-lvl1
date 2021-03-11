@@ -406,6 +406,10 @@ h3 {
   text-align: center;
 }
 
+.definition-title {
+  margin-top: 5px;
+}
+
 .definition-subtitle {
   margin: 30px auto;
 }
